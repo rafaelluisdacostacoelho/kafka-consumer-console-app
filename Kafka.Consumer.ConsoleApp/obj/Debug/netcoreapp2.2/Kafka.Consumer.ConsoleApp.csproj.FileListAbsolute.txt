@@ -1,0 +1,11 @@
+C:\GitHub\kafka-consumer-console-app\Kafka.Consumer.ConsoleApp\bin\Debug\netcoreapp2.2\Kafka.Consumer.ConsoleApp.deps.json
+C:\GitHub\kafka-consumer-console-app\Kafka.Consumer.ConsoleApp\bin\Debug\netcoreapp2.2\Kafka.Consumer.ConsoleApp.runtimeconfig.json
+C:\GitHub\kafka-consumer-console-app\Kafka.Consumer.ConsoleApp\bin\Debug\netcoreapp2.2\Kafka.Consumer.ConsoleApp.runtimeconfig.dev.json
+C:\GitHub\kafka-consumer-console-app\Kafka.Consumer.ConsoleApp\bin\Debug\netcoreapp2.2\Kafka.Consumer.ConsoleApp.dll
+C:\GitHub\kafka-consumer-console-app\Kafka.Consumer.ConsoleApp\obj\Debug\netcoreapp2.2\Kafka.Consumer.ConsoleApp.csprojAssemblyReference.cache
+C:\GitHub\kafka-consumer-console-app\Kafka.Consumer.ConsoleApp\obj\Debug\netcoreapp2.2\Kafka.Consumer.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\GitHub\kafka-consumer-console-app\Kafka.Consumer.ConsoleApp\obj\Debug\netcoreapp2.2\Kafka.Consumer.ConsoleApp.AssemblyInfoInputs.cache
+C:\GitHub\kafka-consumer-console-app\Kafka.Consumer.ConsoleApp\obj\Debug\netcoreapp2.2\Kafka.Consumer.ConsoleApp.AssemblyInfo.cs
+C:\GitHub\kafka-consumer-console-app\Kafka.Consumer.ConsoleApp\bin\Debug\netcoreapp2.2\Kafka.Consumer.ConsoleApp.pdb
+C:\GitHub\kafka-consumer-console-app\Kafka.Consumer.ConsoleApp\obj\Debug\netcoreapp2.2\Kafka.Consumer.ConsoleApp.dll
+C:\GitHub\kafka-consumer-console-app\Kafka.Consumer.ConsoleApp\obj\Debug\netcoreapp2.2\Kafka.Consumer.ConsoleApp.pdb
