@@ -1,1 +1,3 @@
-# kafka-consumer-console-app
+# Kafka Consumer Console App
+
+The kafka consumer in dotnet core console application.
